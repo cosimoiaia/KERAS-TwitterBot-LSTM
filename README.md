@@ -1,2 +1,2 @@
-A Simple implementation of a LSTM network to generate 140 character tweets with Keras trained on a collection of tweets with various Machine Learning hashtags.
+A Simple implementation of an LSTM network with Keras trained on a collection of Machine Learning related tweets to generate similar and novel tweets.
 
